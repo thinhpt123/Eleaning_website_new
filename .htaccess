@@ -1,5 +1,0 @@
-# 1. Tự động nhảy vào folder index để mở file index.php
-DirectoryIndex index/index.php
-
-# 2. Chặn việc hiện danh sách các folder khác khi vào eleaning/
-Options -Indexes
